@@ -1,9 +1,5 @@
 # purplOS-oelinux
 
-The main repo for WireOS.
-
-WireOS serves as a nice, stable, and maintained base for Vector CFW.
-
 ## Submodules
 
 - /poky/poky -> [yoctoproject/poky](https://github.com/yoctoproject/poky) (walnascar)
