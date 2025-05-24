@@ -10,6 +10,7 @@
 ## Update notes:
 
 - **05-21-2025**: you might want to run `./build/clean.sh "connman wpa-supplicant base-files systemd tzdata alsa-lib alsa-tools alsa-utils"` before building again
+- **05-24-2025**: `./build/clean.sh "connman wpa-supplicant fake-hwclock initscript-anki"`
 
 ## Build
 
